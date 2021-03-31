@@ -1,0 +1,8 @@
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netcoreapp3.1\EllipseCircle.Code.deps.json
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netcoreapp3.1\EllipseCircle.Code.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netcoreapp3.1\EllipseCircle.Code.pdb
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netcoreapp3.1\EllipseCircle.Code.AssemblyInfoInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netcoreapp3.1\EllipseCircle.Code.AssemblyInfo.cs
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netcoreapp3.1\EllipseCircle.Code.csproj.CoreCompileInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netcoreapp3.1\EllipseCircle.Code.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netcoreapp3.1\EllipseCircle.Code.pdb

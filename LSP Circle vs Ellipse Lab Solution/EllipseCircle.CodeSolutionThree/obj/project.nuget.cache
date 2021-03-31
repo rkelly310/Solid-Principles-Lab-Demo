@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "JryDk45UvnTMcOHkLcd51cIH8nDg01U05z8V3xcf1gshetSkOp7VCVci96ikPowrzHsMsWbsBesfYO/X7YQCZA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rkell\\source\\repos\\LSP Circle vs Ellipse Lab Solution\\EllipseCircle.CodeSolutionThree\\EllipseCircle.CodeSolutionThree.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rkell\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rkell\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,8 @@
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netstandard2.0\EllipseCircle.Code.deps.json
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netstandard2.0\EllipseCircle.Code.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\bin\Debug\netstandard2.0\EllipseCircle.Code.pdb
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netstandard2.0\EllipseCircle.Code.AssemblyInfoInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netstandard2.0\EllipseCircle.Code.AssemblyInfo.cs
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netstandard2.0\EllipseCircle.Code.csproj.CoreCompileInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netstandard2.0\EllipseCircle.Code.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab\EllipseCircle.Codes\obj\Debug\netstandard2.0\EllipseCircle.Code.pdb

@@ -1,0 +1,16 @@
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\EllipseCircle.TestsSolutionTwo.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\EllipseCircle.TestsSolutionTwo.pdb
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\EllipseCircle.CodeSolutionTwo.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\EllipseCircle.CodeSolutionTwo.pdb
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\obj\Debug\EllipseCircle.TestsSolutionTwo.csprojAssemblyReference.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\obj\Debug\EllipseCircle.TestsSolutionTwo.csproj.CoreCompileInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\obj\Debug\EllipseCircle.TestsSolutionTwo.csproj.CopyComplete
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\obj\Debug\EllipseCircle.TestsSolutionTwo.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.TestsSolutionTwo\obj\Debug\EllipseCircle.TestsSolutionTwo.pdb

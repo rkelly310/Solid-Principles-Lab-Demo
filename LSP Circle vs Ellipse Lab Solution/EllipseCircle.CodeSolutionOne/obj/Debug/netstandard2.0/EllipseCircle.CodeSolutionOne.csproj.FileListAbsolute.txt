@@ -1,0 +1,9 @@
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\bin\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.deps.json
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\bin\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\bin\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.pdb
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.csprojAssemblyReference.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.AssemblyInfoInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.AssemblyInfo.cs
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.csproj.CoreCompileInputs.cache
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.dll
+C:\Users\Rkell\source\repos\LSP Circle vs Ellipse Lab Solution\EllipseCircle.CodeSolutionOne\obj\Debug\netstandard2.0\EllipseCircle.CodeSolutionOne.pdb
